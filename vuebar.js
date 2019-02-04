@@ -540,7 +540,7 @@
             addClass(state.el2, state.config.el2Class);
             state.el2.style.display = 'block';
             state.el2.style.overflowX = 'hidden';
-            state.el2.style.overflowY = 'scroll';
+            // state.el2.style.overflowY = 'scroll';
             state.el2.style.height = '100%';
 
             // do the magic
